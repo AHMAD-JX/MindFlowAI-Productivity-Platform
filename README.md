@@ -42,15 +42,15 @@ A comprehensive AI-powered productivity platform built with Next.js and Node.js,
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **Next.js 16** - React framework
+### Frontend -
+- **Next.js 16** - React frameworks
 - **TypeScript** - Type safety
 - **Tailwind CSS** - Styling
 - **Framer Motion** - Animations
 - **Lucide React** - Icons
 - **Google Generative AI** - AI integration
 
-### Backend
+### Backend -
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
 - **TypeScript** - Type safety
