@@ -2,6 +2,17 @@
 
 A comprehensive AI-powered productivity platform built with Next.js and Node.js, featuring real-time chat with Gemini AI, image generation, code assistance, and more.
 
+
+
+
+![Home](https://github.com/AHMAD-JX/MindFlowAI-Productivity-Platform/blob/8cab4849f2b986ae1894a588f0a9b152a42f9190/frontend/gif.gif)
+![Home](https://github.com/AHMAD-JX/MindFlowAI-Productivity-Platform/blob/8cab4849f2b986ae1894a588f0a9b152a42f9190/frontend/1.png)
+![Home](https://github.com/AHMAD-JX/MindFlowAI-Productivity-Platform/blob/8cab4849f2b986ae1894a588f0a9b152a42f9190/frontend/2.png)
+![Home](https://github.com/AHMAD-JX/MindFlowAI-Productivity-Platform/blob/8cab4849f2b986ae1894a588f0a9b152a42f9190/frontend/3.png)
+![Home](https://github.com/AHMAD-JX/MindFlowAI-Productivity-Platform/blob/8cab4849f2b986ae1894a588f0a9b152a42f9190/frontend/4.png)
+
+
+
 ## 🚀 Features
 
 ### 🤖 AI Chat Assistant
