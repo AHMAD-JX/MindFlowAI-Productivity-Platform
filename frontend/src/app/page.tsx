@@ -369,6 +369,8 @@ export default function Home() {
                   />
                 </motion.div>
 
+                
+
                 {/* Content */}
                 <div className="relative z-10">
                   <motion.h3 
@@ -405,6 +407,7 @@ export default function Home() {
               </motion.div>
             ))}
           </div>
+          
 
           {/* Enhanced Special Highlight */}
           <motion.div
@@ -460,7 +463,7 @@ export default function Home() {
                   Transform your ideas into stunning visuals with our advanced AI image generation. 
                   From concept to creation in seconds.
                 </motion.p>
-                
+                {/* more anime with le Advanced Hero Section with Three.js & GSAP */}
                 <motion.div
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
@@ -860,7 +863,7 @@ export default function Home() {
               <span className="text-lg font-bold">MindFlow AI</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2025 MindFlow AI. All rights reserved.
+              © 2025 MindFlow AI. All rights reserved. ©
             </p>
           </div>
         </div>
